@@ -1,0 +1,1 @@
+void print_matrix(int n, int m, int matr[n][m]);
