@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "matr_lib.h": "c",
+        "stdio.h": "c"
+    }
+}
