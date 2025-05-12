@@ -1,0 +1,1 @@
+Pokusavamo da otovorimo datoteku imena.txt
